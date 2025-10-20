@@ -1,23 +1,30 @@
-<div align="center" style="background-color:#1C120D; color:#E8D5B5; padding:25px; border-radius:10px;">
+# Sabry Dev Portfolio
 
-<h1>Sabry Dev Portfolio</h1>
-<p><i>By <span style="color:#8B4513;">Ahmed Sabry</span></i></p>
 
-<p>
-A front-end portfolio website built with a <span style="color:#8B4513;">coffee-inspired dark theme</span>  
+A front-end portfolio website built with a coffee-inspired dark theme  
 to showcase my projects, skills, and developer journey.  
 Designed to reflect warmth, simplicity, and clean code aesthetics.
-</p>
-
-<a href="https://sabrydev.netlify.app/" target="_blank" style="text-decoration:none;">
-  <div style="display:inline-block; background:#8B4513; color:#E8D5B5; padding:10px 20px; border-radius:8px; margin-top:10px; font-weight:bold;">
-    View Live
-  </div>
-</a>
 
 ---
 
-### Built With
+<p align="center">
+  <a href="https://sabrydev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Live-%238B4513?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-sabryy22" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%23D2B48C?style=for-the-badge&logo=linkedin&logoColor=1C120D" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sabry-learner" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%238B4513?style=for-the-badge&logo=github&logoColor=E8D5B5" alt="GitHub"/>
+  </a>
+  <a href="mailto:ahmedsabrydev22@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23E8D5B5?style=for-the-badge&logo=gmail&logoColor=8B4513" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## Built With
 - HTML  
 - CSS  
 - Bootstrap  
@@ -25,29 +32,38 @@ Designed to reflect warmth, simplicity, and clean code aesthetics.
 
 ---
 
-### Features
+## Features
 - Responsive design for all devices  
-- Coffee-themed UI with warm tones  
-- Smooth hover transitions and clean layout  
+- Coffee-themed dark UI  
+- Smooth hover transitions  
+- Clean, minimal, and readable layout  
 - Organized project cards with demo and GitHub links  
 
 ---
 
-### Projects
-- **Kharaza** – Handmade store with a colorful UI  
-- **GameStore** – Full-stack e-commerce app using .NET  
-- **Sabritos Coffee** – Modern coffee shop website  
-- **Exo AI** – NASA Space Apps project  
+## Projects
+| Project | Description |
+|----------|--------------|
+| Kharaza | Handmade store with a colorful UI |
+| GameStore | Full-stack e-commerce app using .NET |
+| Sabritos Coffee | Modern coffee shop website |
+| Exo AI | NASA Space Apps project |
 
 ---
 
-### Connect
-<a href="https://www.linkedin.com/in/ahmed-sabryy22" style="color:#D2B48C;">LinkedIn</a>  
-<a href="https://github.com/sabry-learner" style="color:#D2B48C;">GitHub</a>  
-<a href="mailto:ahmedsabrydev22@gmail.com" style="color:#D2B48C;">Email</a>  
+## Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-sabryy22" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%23D2B48C?style=for-the-badge&logo=linkedin&logoColor=1C120D" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sabry-learner" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%238B4513?style=for-the-badge&logo=github&logoColor=E8D5B5" alt="GitHub"/>
+  </a>
+  <a href="mailto:ahmedsabrydev22@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23E8D5B5?style=for-the-badge&logo=gmail&logoColor=8B4513" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-<b style="color:#8B4513;">Code Like Coffee — Bold and Smooth</b>
-
-</div>
+Code Like Coffee — Bold and Smooth
